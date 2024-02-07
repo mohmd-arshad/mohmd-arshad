@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Arshad</h1>
 <h3 align="center">Data Analyst</h3>
 
-<p align="left"> <img src="" alt="Arshad" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen-s6&label=Profile%20views&color=0e75b6&style=flat" alt="Arshad" /> </p>
 
 - 🌱 I’m currently learning **Power BI, SQL, and Excel**
 
